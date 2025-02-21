@@ -1,5 +1,16 @@
-# 💫 About Me:
-Cyber security <br>Founder of sector 21<br>CyberRange <br>
+### 👋 Hey there, I’m **Vasudev C V** (aka **Blueye**)  
+🔐 **Cybersecurity Enthusiast | Ethical Hacker | Founder of Sector 21**  
+
+💻 Passionate about cybersecurity, ethical hacking, and penetration testing. I love exploring vulnerabilities, securing systems, and sharing knowledge with the community.  
+
+---
+
+🚀 **What I Do:**  
+- 🛡️ Founder of **Sector 21** – A cybersecurity community connecting enthusiasts with professionals.  
+- 🏴‍☠️ Ethical hacking & penetration testing.  
+- 🔥 Security research, bug bounty, and CTFs.  
+- 🖥️ Software development & scripting (C, C++, Python, Bash).  
+- ☁️ Cloud security (AWS | Azure | GCP).
 
 
 ## 🌐 Socials:
